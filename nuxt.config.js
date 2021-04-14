@@ -105,12 +105,12 @@ export default {
    */
   modules: [
     ['@nuxtjs/dayjs'],
-    [
-      '@nuxtjs/google-analytics',
-      {
-        id: GA_ID,
-      },
-    ],
+    // [
+    //   '@nuxtjs/google-analytics',
+    //   {
+    //     id: GA_ID,
+    //   },
+    // ],
     ['@nuxtjs/sitemap'],
     '@nuxtjs/feed',
     '@nuxtjs/proxy',
